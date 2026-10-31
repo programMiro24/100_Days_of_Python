@@ -5,7 +5,7 @@ from stages import stages
 lives = 6
 print(logo)
 chosen_word = random.choice(word_list)
-print(chosen_word)
+#print(chosen_word)
 is_Not_Win = True
 
 placeholder = ""
